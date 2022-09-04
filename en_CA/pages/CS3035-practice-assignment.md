@@ -2,7 +2,7 @@
 
 The purpose of the practice assignment is to verify that your setup is working OK, and that you will be able to work on submit your assignments.
 
-**The practice is due on Wednesday, September 12 at 4pm.**
+**The practice is due on Monday, September 12 at 4pm.**
 
 - This assignment is not worth marks, but is critical to work out any kinks you might have as early as possible
 - Remember to create a new account specifically for this course. See the instructions [Using Git](CS3035-assignments-with-git.md).
