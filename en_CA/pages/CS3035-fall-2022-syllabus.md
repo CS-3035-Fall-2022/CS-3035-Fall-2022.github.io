@@ -49,13 +49,16 @@ There is no official textbook for this course. Course slides, example code and o
 - [Oracle Getting Started with JavaFX](https://docs.oracle.com/javase/8/javafx/get-started-tutorial/index.html)
 - [Oracle Introduction to FXML](https://docs.oracle.com/javase/8/javafx/api/javafx/fxml/doc-files/introduction_to_fxml.html)
 - [Good set of simple how-to's for various interface components](http://tutorials.jenkov.com/javafx/index.html)
+- [Tutorial on JavaFX CSS](https://www.tutorialspoint.com/javafx/javafx_css.htm)
 - [Good setup tutorials for a very similar setup to what we will be using](https://code.makery.ch/library/javafx-tutorial/)
-- [JavaFX for Dummies - a good intro book, no FXML coverage](https://unb.on.worldcat.org/oclc/892044745)
+- [Tutorial Videos on YouTube](https://www.youtube.com/playlist?list=PL4h6ypqTi3RR_bhBk6PtLfD83YkaJXXxw)
 
 ### Important References
 
-- [Java 8 API](https://docs.oracle.com/javase/8/docs/api/)
-- [JavaFX 8 API](https://docs.oracle.com/javase/8/javafx/api/toc.htm)
+- [JavaFX Documentation Project](https://fxdocs.github.io/docs/html5/)
+- [Getting Started with JavaFX](https://openjfx.io/openjfx-docs/)
+- [Java 18 API](https://docs.oracle.com/en/java/javase/18/docs/api/index.html)
+- [JavaFX 11 API](https://openjfx.io/javadoc/11/)
 - [JavaFX CSS Reference Guide](https://docs.oracle.com/javase/8/javafx/api/javafx/scene/doc-files/cssref.html)
 
 ## Class Policies
