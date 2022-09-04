@@ -25,7 +25,7 @@ To access example code for the course there is a repository setup on the course'
 In IntelliJ do the following:
 
 - ```File -> New -> Project From Version Control -> Repository URL```
-- Enter ```https://github.com/CS-3035-Fall-2022/CS-3035-Examples.git``` for the URL
+- Enter ```https://github.com/CS-3035-Fall-2022/CS-3035-Example-Code.git``` for the URL
 - You can open a new window for the CS-3035-Examples project or you can open in the same window (which closes your current project)
 
 #### Running Examples
@@ -42,7 +42,7 @@ Remember to pull the code from the examples repo often
 
 To help you keep up to date, you can watch the examples repository... that way you can get frequent updates:
 
-- Visit <https://github.com/CS-3035-Fall-2022/CS-3035-Examples>
+- Visit <https://github.com/CS-3035-Fall-2022/CS-3035-Example-Code/>
 - Click 'watch' in the top right hand corner
 
 #### Pull Changes
