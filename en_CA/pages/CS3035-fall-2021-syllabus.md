@@ -1,6 +1,6 @@
 # CS 3035 - Course Outline
 
-## 2021-2022 Fall Term
+## 2022-2023 Fall Term
 
 ## Description
 
@@ -10,7 +10,7 @@ Basic approaches and techniques for implementing human-computer interfaces. Basi
 
 ### More Details
 
-This course provides important background building graphical user interfaces, with some general background on design. We will cover conceptual and practical aspects of many of the aspects of GUI design and implementation. This year we will focus on coding in JavaFX, using both purely procedural code and mark-up. We will contrast approaches for basic implementation using other languages and toolkits including Python/Tkinter, HTML/CSS/JavaScript, and Android/Java.
+This course provides important background building graphical user interfaces, with some general background on design. We will cover conceptual and practical aspects of many of the aspects of GUI design and implementation. This year we will focus on coding in JavaFX, using both purely procedural code and mark-up. We will contrast approaches for basic implementation using other languages and toolkits such as Python/Tkinter, HTML/CSS/JavaScript, and Android/Java.
 
 This course is a complement to:
 
@@ -24,26 +24,25 @@ This course is a complement to:
 ## Class Time and Location
 
 - **Class Time**: 8:30am - 9:50am. Tuesday and Thursday. 
-- **Location**: Head Hall C11 and on [Teams]()
-- **Recordings**: on [Streams]
+- **Location**: [GWD124](http://es.unb.ca/apps/map/?map=1&location=609G)
   
-Attendance in-person is strongly encouraged, but will always follow the [latest policies set by the University](https://www.unb.ca/coronavirus/students/returning/index.html). 
+Attendance in-person is required, but will always follow the [latest policies set by the University](https://www.unb.ca/coronavirus/students/returning/index.html). 
 
 ### Recording of Class Time
 
-All in-person lectures will be broadcast and recorded, while this is done primarily for students who are unable to make it to class, all students will have access to these recordings. Tests will not be recorded. 
+All in-person lectures will be recorded, but will only be available by private link to those who had made arrangements with the instructor before a given classtime.
 
 ## Instructor and Contact
 
-- For more detail on Contact please see the [contact details on the course website](CS3035-fall-2020-course-activities.md).
+- For more detail on Contact please see the [contact details on the course website](CS3035-fall-2022-course-activities.md).
 
 ## Course Work and Marking Scheme (Tentative)
 
-See [course work details](CS3035-fall-2021-course-activities.md#Course_Work_Details).
+See [course work details](CS3035-fall-2022-course-activities.md#Course_Work_Details).
 
 ## Text Books
 
-There is no official textbook for this course. Course slides, pre-recorded lectures, example code and online readings will be provided. Students are strongly encouraged to take notes as study aids.
+There is no official textbook for this course. Course slides, example code and online readings will be provided and referred to during clastime. Students are strongly encouraged to take notes as study aids.
 
 ### Good Tutorials
 
