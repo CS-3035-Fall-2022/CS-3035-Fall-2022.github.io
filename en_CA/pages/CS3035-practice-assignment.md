@@ -13,6 +13,6 @@ The purpose of the practice assignment is to verify that your setup is working O
 - Select Practice-Assignment-Your_GitHub_Username from the list of repositories
 - Select your repo from the list and click Clone
 - Find and edit your readme.md file
-- Create a basic HelloWorld App... you can see the [Examples on the course GitHub repo](https://github.com/CS-3035-Fall-2021/CS-3035-Example-Code) for how to do it.
+- Create a basic HelloWorld App... you can see the [Examples on the course GitHub repo](https://github.com/CS-3035-Fall-2022/CS-3035-Example-Code) for how to do it.
 - Follow the steps above for ***committing*** your changes and ***pushing*** them to GitHub
 - ***IMPORTANT***: Verify that your updated readme.md file has been updated on GitHub by visiting the website. Have all of your changes been pushed?
