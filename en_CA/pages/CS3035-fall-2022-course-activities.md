@@ -61,6 +61,6 @@ Tests will be longer than quizzes and are designed to test your understanding of
 | 10/29| Assignment #3 |
 | 11/01| Last Day to Withdraw|
 | 11/03| Group Project Video|
-| 11/24| Group Project Video
+| 11/29| Project (Individual)|
 | 12/08| Last Class |
 | TBA  | Final - Test #2 - During Exam Period |
