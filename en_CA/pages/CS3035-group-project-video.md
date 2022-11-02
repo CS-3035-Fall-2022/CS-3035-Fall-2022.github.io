@@ -85,4 +85,12 @@ Your video should adhere to the strict 8-minute time limit. Suggested timings fo
 
 ## Submission
 
-To be updated with specific submission requirements. 
+You should submit your group project by Friday. Yes, Friday, you get an extra day. 
+
+ - Upload your video to Microsoft Stream. 
+
+ - Set the video to be visible to everyone in my organization. 
+
+ - Submit the link along with your team details to the link below:
+
+https://forms.office.com/r/cvpwk2YFc2
